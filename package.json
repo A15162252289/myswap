@@ -1,7 +1,7 @@
 {
   "name": "@uniswap/interface",
   "description": "Uniswap Interface",
-  "homepage": "https://a15162252289.github.io/myswap/index.html",
+  "homepage": "https://a15162252289.github.io/myswap",
   "private": true,
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",

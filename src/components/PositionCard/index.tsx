@@ -25,7 +25,7 @@ import DoubleCurrencyLogo from '../DoubleLogo'
 import { RowBetween, RowFixed, AutoRow } from '../Row'
 import { Dots } from '../swap/styleds'
 import { BIG_INT_ZERO } from '../../constants'
-
+// import { toV2LiquidityToken, useTrackedTokenPairs } from '../../state/user/hooks'
 export const FixedHeightRow = styled(RowBetween)`
   height: 24px;
 `
